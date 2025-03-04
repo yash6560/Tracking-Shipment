@@ -16,11 +16,19 @@ This project is a **Cargo Shipment Tracker Web App** built with the MERN Stack. 
 - Tailwind CSS
 - Routing API Integration
 
-## 📌 Installation
-1. Clone the repositories:
-   - Backend: [Backend Repo](#)
-   - Web App: [Frontend Repo](#)
+## ⚙️ Installation
 
-2. Install dependencies:
-   ```bash
-   npm install
+1. **Backend:**
+```bash
+cd Backend
+npm install
+nodemon index.js
+```
+
+2. **Frontend:**
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
